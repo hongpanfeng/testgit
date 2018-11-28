@@ -1,4 +1,4 @@
 
 软件调试记录：
-1、Git is a distributed version control system.
-2、Git is free software.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
